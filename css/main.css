@@ -1,0 +1,96 @@
+
+
+@font-face {
+    font-family: 'margheritablack';
+    src: url('../fonts/margherita-black-webfont.woff2') format('woff2'),
+         url('../fonts/margherita-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'margheritabold';
+    src: url('../fonts/margherita-bold-webfont.woff2') format('woff2'),
+         url('../fonts/margherita-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'margheritalight';
+    src: url('../fonts/margherita-light-webfont.woff2') format('woff2'),
+         url('../fonts/margherita-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'margheritaregular';
+    src: url('../fonts/margherita-regular-webfont.woff2') format('woff2'),
+         url('../fonts/margherita-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'margheritasemibold';
+    src: url('../fonts/margherita-semibold-webfont.woff2') format('woff2'),
+         url('../fonts/margherita-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'margherita_variableregular';
+    src: url('../fonts/margheritavariablegx-webfont.woff2') format('woff2'),
+         url('../fonts/margheritavariablegx-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+h1{
+    font-family: margheritabold;
+}
+
+body{
+    background: burlywood;
+    font-family: margheritaregular;
+}
+#contenedor_direccion{
+    background: yellowgreen;
+}
+.seccion{
+    border: 1px solid aquamarine;
+
+}
+li{
+    text-decoration: underline;
+}
+
+.parrafo{
+    border: 5px dotted darkviolet;
+    margin: 5px 10px 20px 30px;
+    padding-left: 50px;
+}
